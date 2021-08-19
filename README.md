@@ -8,3 +8,5 @@ The files "dissertation-analysis-2014/17" are the preliminary analysis results f
 The file "final-condensed-results" are the headline results included in the main report
 
 The file "project-summary-w--results" includes an outline of the project, results, and model diagnostics. 
+
+The file "conceptual-model" is the code used to create the conceptual model diagram and key
