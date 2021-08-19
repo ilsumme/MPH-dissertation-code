@@ -10,3 +10,5 @@ The file "final-condensed-results" are the headline results included in the main
 The file "project-summary-w--results" includes an outline of the project, results, and model diagnostics. 
 
 The file "conceptual-model" is the code used to create the conceptual model diagram and key
+
+The file "GSNI-trend-analysis" is the code used to investigate the GSNI values over time. 
